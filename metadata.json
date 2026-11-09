@@ -1,0 +1,25 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Karan Kapuria"
+            }
+        ],
+        "Category": "Information",
+        "Description": "Monitor the Stock Market & Crypto Fear and Greed Index directly on your KDE Plasma panel",
+        "Icon": "org.kde.plasma.fearandgreed",
+        "Id": "org.kde.plasma.fearandgreed",
+        "Name": "Fear & Greed Index",
+        "Version": "1.0.0",
+        "Website": "https://github.com/kkapuria3/fear-and-greed-kde"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.core"
+    ],
+    "X-Plasma-FormFactors": [
+        "horizontal",
+        "vertical"
+    ]
+}
