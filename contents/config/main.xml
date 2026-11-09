@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <kcfgfile/>
+    <group name="General">
+        <entry name="dataSource" type="Int">
+            <default>0</default>
+        </entry>
+        <entry name="updateInterval" type="Int">
+            <default>120</default>
+        </entry>
+        <entry name="barWidth" type="Int">
+            <default>360</default>
+        </entry>
+        <entry name="barHeight" type="Int">
+            <default>18</default>
+        </entry>
+        <entry name="showIndicatorBar" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showSegmentLabels" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="segmentLabelsColor" type="Color">
+            <default>#ffffff</default>
+        </entry>
+        <entry name="showScoreNumber" type="Bool">
+            <default>true</default>
+        </entry>
+        <entry name="showStatusText" type="Bool">
+            <default>true</default>
+        </entry>
+    </group>
+</kcfg>
