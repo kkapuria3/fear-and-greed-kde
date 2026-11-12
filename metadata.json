@@ -10,7 +10,7 @@
         "Description": "Monitor the Stock Market & Crypto Fear and Greed Index directly on your KDE Plasma panel",
         "Icon": "org.kde.plasma.fearandgreed",
         "Id": "org.kde.plasma.fearandgreed",
-        "Name": "Fear & Greed Index",
+        "Name": "Stocks - Fear and Greed Index",
         "Version": "1.0.0",
         "Website": "https://github.com/kkapuria3/fear-and-greed-kde"
     },
